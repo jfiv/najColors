@@ -19,4 +19,4 @@ Minified version:
 
 ## MIT License
 
-See the [LICENSE](https://jfiv.github.io/najColors/LICENSE) file
+See the [LICENSE]([https://jfiv.github.io/najColors/LICENSE](https://github.com/jfiv/najColors/blob/7c311a37c280149e16ee94d503027b79ad965a80/LICENSE)https://github.com/jfiv/najColors/blob/7c311a37c280149e16ee94d503027b79ad965a80/LICENSE) file
