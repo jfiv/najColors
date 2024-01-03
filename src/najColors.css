@@ -1,4 +1,3 @@
-
 :root{
     --naj-blue: #0000ff;
     --naj-lightblue: #1f78fe;
@@ -19,6 +18,10 @@
     --nf-haus-lightgreen:#47744f;
     --nf-haus-brightgreen:#69a373;
     --nf-haus-darkgreen:#142116;
+
+    --it5-red:#E21C21;
+    --it5-gray:#585858;
+    --it5-darkgray:#2F2E2E;
 }
 .naj-blue
 {background-color:var(--naj-blue)!important;color:#fff!important;}
@@ -59,3 +62,10 @@
 {background-color:var(--nf-haus-brightgreen)!important;color:#000!important;}
 .nf-haus-darkgreen
 {background-color:var(--nf-haus-darkgreen)!important;color:#fff!important;}
+
+.it5-red
+{background-color:var(--it5-red)!important;color:#fff!important;}
+.it5-gray
+{background-color:var(--it5-gray)!important;color:#fff!important;}
+.it5-darkgray
+{background-color:var(--it5-darkgray)!important;color:#fff!important;}
