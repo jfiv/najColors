@@ -17,6 +17,10 @@ Minified version:
 <link rel="stylesheet" href="https://jfiv.github.io/najColors/dist/najColors.min.css">
 ```
 
+## Colors
+for a nice overview u can visit: https://ttt.najjo.rf.gd/teach/colors/naj-colors.html
+
+
 ## MIT License
 
 See the [LICENSE](https://github.com/jfiv/najColors/blob/7c311a37c280149e16ee94d503027b79ad965a80/LICENSE) file
